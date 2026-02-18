@@ -1,38 +1,43 @@
-# Hi, I'm Chaitanya Jarugula 👋 
+# ☁️ Chaitanya Jarugula | Data Engineer 
 
-### Data Engineer | Cloud Architect | AI Enthusiast
-
-I specialize in building scalable data pipelines and autonomous governance systems. Currently focusing on the intersection of **GCP Data Ecosystems** and the **Model Context Protocol (MCP)**.
-
----
-
-### 🛠 Tech Stack
-
-- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-- **Data & Cloud:** ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-F2662E?style=flat&logo=apache-beam&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-6699FF?style=flat&logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-- **DevOps:** ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
-- **Frontend/Backend:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyajarugula&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Chaitanya's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajarugula&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-### 🚀 Featured Projects
-
-- **[Autonomous BigQuery Governance Agent]**
-  - An LLM-driven agent using **MCP** to automate IAM and data policy enforcement.
-- **[Dataflow Flex Templates]**
-  - Custom Apache Beam pipelines optimized for high-throughput GCP ingestion.
-- **[IoT Water Conservation Platform]**
-  - Full-stack dashboard built with **React JS** and **Flask** for real-time sensor monitoring.
+### 👨‍💻 About Me
+- 🚀 **Currently:** Architecting LLM-driven data governance tools using **Model Context Protocol (MCP)**.
+- 🛠 **Expertise:** Scalable pipelines in **GCP (Dataflow, BigQuery)** and infrastructure as code with **Terraform**.
+- 🏆 **Certified:** [Google Cloud Professional Data Engineer](https://www.google.com/search?q=GCP+Professional+Data+Engineer+Certification)
+- 🎓 **Education:** MS in Computer Science from **Missouri S&T**.
 
 ---
 
-### 📊 GitHub Stats
+### 🛠 My Data Engineering Toolkit
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaitanyajarugula&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajarugula&layout=compact&theme=tokyonight)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **Data Orchestration** | ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white) ![Beam](https://img.shields.io/badge/-Apache%20Beam-F2662E?logo=apache-beam&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) |
+| **Databases** | ![BigQuery](https://img.shields.io/badge/-BigQuery-6699FF?logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
+| **Frontend/Backend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) |
 
 ---
 
-### 📫 Connect with me
-- **LinkedIn:** [linkedin.com/in/chaitanyajarugula](https://www.linkedin.com/in/chaitanyajarugula/)
-- **Portfolio:** [chaitanyajarugula.github.io](https://chaitanyajarugula.github.io)
+### 🧪 Featured Work (from my Resume)
+
+- **[BigQuery Governance Agent](https://github.com/chaitanyajarugula)**: MCP implementation for automated IAM management.
+- **[Dataflow Flex Templates](https://github.com/chaitanyajarugula)**: High-throughput ingestion pipelines for SFTP to BigQuery.
+- **[IoT Water Conservation](https://github.com/chaitanyajarugula)**: Real-time sensor mesh using NodeMCU, Flask, and React.
+
+---
+
+### 🐍 Contribution Activity
+![Snake animation](https://github.com/chaitanyajarugula/chaitanyajarugula/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaitanyajarugula/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jarugulachaitanya@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
