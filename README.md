@@ -9,10 +9,10 @@
 I'm a **Google Cloud Certified Professional Data Engineer** 🏆 passionate about architecting next-generation data solutions. I specialize in building production-grade systems using **GCP**, **Apache Beam**, and the **Model Context Protocol (MCP)** to automate data governance and scale intelligence.
 
 <p align="left">
-  <a href="https://www.credential.net/your-link-here"><img src="https://img.shields.io/badge/Certification-Google%20Cloud%20Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Data Engineer" /></a>
+  <a href="https://google.accredible.com/60c75abc-6980-43e3-8a58-787721c368c5"><img src="https://img.shields.io/badge/Certification-Google%20Cloud%20Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Data Engineer" /></a>
 </p>
 
-With a **Master’s in Computer Science** from Missouri S&T, I’ve evolved from building full-stack IoT platforms to engineering enterprise-level data pipelines that process millions of records with 99.9% reliability.
+With a **Master’s degree in Computer Science** from Missouri S&T, I’ve evolved from building full-stack IoT platforms to engineering enterprise-level data pipelines that process millions of records with 99.9% reliability.
 
 ### 🎯 What Drives Me
 - **Scalable Architectures:** Moving data at scale with Dataflow and Spark.
