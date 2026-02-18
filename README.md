@@ -1,43 +1,29 @@
-# ☁️ Chaitanya Jarugula | Data Engineer 
+<h1 align="center">Hi 👋, I'm Chaitanya Jarugula</h1>
+<h3 align="center">Data Engineer | Cloud Architect | Building Scalable AI & Data Platforms</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyajarugula&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Chaitanya's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyajarugula&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=chaitanyajarugula&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyajarugula" />
 </p>
 
+## ☁️ About Me
+I'm a **Google Cloud Certified Professional Data Engineer** 🏆 passionate about architecting next-generation data solutions. I specialize in building production-grade systems using **GCP**, **Apache Beam**, and the **Model Context Protocol (MCP)** to automate data governance and scale intelligence.
+
+<p align="left">
+  <a href="https://www.credential.net/your-link-here"><img src="https://img.shields.io/badge/Certification-Google%20Cloud%20Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Data Engineer" /></a>
+</p>
+
+With a **Master’s in Computer Science** from Missouri S&T, I’ve evolved from building full-stack IoT platforms to engineering enterprise-level data pipelines that process millions of records with 99.9% reliability.
+
+### 🎯 What Drives Me
+- **Scalable Architectures:** Moving data at scale with Dataflow and Spark.
+- **AI Automation:** Implementing MCP servers for intelligent data infrastructure.
+- **Reliability:** Engineering pipelines with 99.9% uptime and robust CI/CD.
+
 ---
 
-### 👨‍💻 About Me
-- 🚀 **Currently:** Architecting LLM-driven data governance tools using **Model Context Protocol (MCP)**.
-- 🛠 **Expertise:** Scalable pipelines in **GCP (Dataflow, BigQuery)** and infrastructure as code with **Terraform**.
-- 🏆 **Certified:** [Google Cloud Professional Data Engineer](https://www.google.com/search?q=GCP+Professional+Data+Engineer+Certification)
-- 🎓 **Education:** MS in Computer Science from **Missouri S&T**.
+## 🛠 Tech Stack & Tools
 
----
-
-### 🛠 My Data Engineering Toolkit
-
-| Category | Tools & Technologies |
+| Category | technologies |
 | :--- | :--- |
-| **Cloud** | ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
-| **Data Orchestration** | ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white) ![Beam](https://img.shields.io/badge/-Apache%20Beam-F2662E?logo=apache-beam&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) |
-| **Databases** | ![BigQuery](https://img.shields.io/badge/-BigQuery-6699FF?logo=google-cloud&logoColor=white) ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
-| **Frontend/Backend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) |
-
----
-
-### 🧪 Featured Work (from my Resume)
-
-- **[BigQuery Governance Agent](https://github.com/chaitanyajarugula)**: MCP implementation for automated IAM management.
-- **[Dataflow Flex Templates](https://github.com/chaitanyajarugula)**: High-throughput ingestion pipelines for SFTP to BigQuery.
-- **[IoT Water Conservation](https://github.com/chaitanyajarugula)**: Real-time sensor mesh using NodeMCU, Flask, and React.
-
----
-
-### 🐍 Contribution Activity
-![Snake animation](https://github.com/chaitanyajarugula/chaitanyajarugula/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chaitanyajarugula/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jarugulachaitanya@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+| **Data Engineering** | ![Beam](https://img.shields.io/badge/-Apache%20Beam-F2662E?logo=apache-beam&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) |
+| **Cloud & DB** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/-BigQuery-6699FF?logo=google-cloud&logoColor=white) ![Snowflake](
