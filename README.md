@@ -6,7 +6,7 @@
 </p>
 
 ## ☁️ About Me
-I'm a **Google Cloud Certified Professional Data Engineer** 🏆 passionate about architecting next-generation data solutions. Currently, I am driving data innovation at **Bayer Crop Science**, specializing in production-grade systems using **GCP**, **Apache Beam**, and the **Model Context Protocol (MCP)**.
+I'm a **Google Cloud Certified Professional Data Engineer** 🏆 specializing in architecting production-grade data systems. Currently, I am a **Data Engineer at Bayer Crop Science**, focused on building scalable pipelines and implementing the **Model Context Protocol (MCP)** for autonomous data governance.
 
 <p align="left">
   <a href="https://google.accredible.com/60c75abc-6980-43e3-8a58-787721c368c5"><img src="https://img.shields.io/badge/Certification-Google%20Cloud%20Professional%20Data%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Data Engineer" /></a>
@@ -14,14 +14,12 @@ I'm a **Google Cloud Certified Professional Data Engineer** 🏆 passionate abou
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Professional Experience
 
-### **🚀 Data Engineer | Bayer Crop Science** *Jan 2024 – Present* * **Pipeline Architect:** Re-engineered Dataflow templates to slash processing latency by **50%**.  
-* **IaC Ninja:** Leveraged **Terraform** to automate infrastructure, accelerating deployments by **90%**.  
-* **AI Integrator:** Pioneered **MCP-based** autonomous agents for intelligent BigQuery governance.
-
-### **🛠 System Engineer | Tata Consultancy Services** *Aug 2019 – Aug 2022* * **Full-Stack Pilot:** Crafted data-driven interfaces using **React** and **Flask** for enterprise scale.  
-* **Migration Lead:** Orchestrated seamless ETL transitions to **Postgres** with zero data loss.
+### **Data Engineer | Bayer Crop Science** *Jan 2024 – Present* * **Data Pipeline Optimization:** Engineered Dataflow Flex Templates using **Apache Beam**, reducing data processing time by **50%** and enhancing data visibility by **40%**.
+* **Infrastructure as Code:** Developed and managed cloud infrastructure using **Terraform** and GitHub Actions, achieving a **90% reduction** in deployment time.
+* **Autonomous Governance:** Implementing an **MCP-based** agent to automate BigQuery IAM management and ensure real-time policy compliance.
+* **Cross-Functional Collaboration:** Partnering with data scientists and stakeholders to deliver high-quality datasets for predictive analytics.
 
 ---
 
