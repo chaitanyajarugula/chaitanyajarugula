@@ -16,7 +16,8 @@ I'm a **Google Cloud Certified Professional Data Engineer** 🏆 specializing in
 
 ## 💼 Professional Experience
 
-### **Data Engineer | Bayer Crop Science** *Jan 2024 – Present* * **Data Pipeline Optimization:** Engineered Dataflow Flex Templates using **Apache Beam**, reducing data processing time by **50%** and enhancing data visibility by **40%**.
+### **Data Engineer | Bayer Crop Science** *June 2023 – Present* 
+* **Data Pipeline Optimization:** Engineered Dataflow Flex Templates using **Apache Beam**, reducing data processing time by **50%** and enhancing data visibility by **40%**.
 * **Infrastructure as Code:** Developed and managed cloud infrastructure using **Terraform** and GitHub Actions, achieving a **90% reduction** in deployment time.
 * **Autonomous Governance:** Implementing an **MCP-based** agent to automate BigQuery IAM management and ensure real-time policy compliance.
 * **Cross-Functional Collaboration:** Partnering with data scientists and stakeholders to deliver high-quality datasets for predictive analytics.
