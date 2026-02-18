@@ -41,7 +41,6 @@ With a **Master’s in Computer Science** from Missouri S&T, I’ve evolved from
 
 ## 📈 Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaitanyajarugula&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyajarugula&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
